@@ -1,2 +1,2 @@
 # site-insightunlocked.com
-Website for Insight Unlockede
+Website for Insight Unlocked
